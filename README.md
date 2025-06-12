@@ -5,5 +5,5 @@
 - 🛠️ Crafting innovative projects with Badgeteam, NURDspace, IJHack, Idiopolis, and Hack42.
 - 📚 Passionate about open-source and continuous learning.
 - 💬 Ask me about software development, tech communities, and anything code-related.
-- 📫 Reach me: [Twitter @annejanbrouwer](https://twitter.com/annejanbrouwer)
+- 📫 Reach me: [Bluesky @annejan.com](https://bsky.app/profile/annejan.com).
 
